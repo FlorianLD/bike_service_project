@@ -5,7 +5,7 @@ Data project about the public bike service traffic in New York.
 
 This is a data project I made when I learned to use [seaborn](https://seaborn.pydata.org/) and [matplotlib](https://matplotlib.org/) libraries.<br>
 The objective was to rely entirely on those two libraries to create data visualizations.<br>
-See notebook [here](https://github.com/FlorianLD/ai_data_cleaning/blob/main/ai_data_cleaning.ipynb).
+See notebook [here](https://github.com/FlorianLD/bike_service_project/blob/main/notebook.ipynb).
 
 # Tools
 
