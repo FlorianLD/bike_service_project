@@ -1,4 +1,4 @@
-# bike_service_project
+# About
 Data project about the public bike service traffic in New York.
 
 # Objective
